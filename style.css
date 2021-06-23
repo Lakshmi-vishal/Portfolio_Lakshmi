@@ -547,20 +547,8 @@ color: rgb(58,0,173);
     justify-items: center;
   }
 }
-.mycontactnumber 
+.contact__container bd-grid
 {
-
-
-  color: rgb(58,0,173);
-  font-size: x-large;
-  font-family: IntegralCF-Bold;
-  text-align: center;
-}
-
-.mymailid 
-{
-
-
   color: rgb(58,0,173);
   font-size: x-large;
   font-family: IntegralCF-Bold;
