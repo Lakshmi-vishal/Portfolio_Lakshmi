@@ -412,14 +412,14 @@ img{
 }
 .title_desc
 {
-font-color: rgb(58,0,173);
-
+color: rgb(58,0,173);
+font-family: IntegralCF-Medium;
 }
 
 
 .project_desc
-{
-font-color: rgb(58,0,173);
+{font-family: IntegralCF-Medium;
+color: rgb(58,0,173);
 
 }
 /* ===== FOOTER =====*/
