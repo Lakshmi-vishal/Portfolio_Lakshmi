@@ -401,9 +401,7 @@ img{
   outline: none;
   margin-bottom: var(--mb-4);
   color: rgb(58,0,173);
-  font-size: x-large;
-  font-family: IntegralCF-Bold;
-  text-align: center;
+ 
 }
 .contact__button{
   display: block;
