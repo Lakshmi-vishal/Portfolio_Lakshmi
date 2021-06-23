@@ -549,13 +549,12 @@ color: rgb(58,0,173);
   }
   .contact__container{
     justify-items: center;
-
 color: rgb(58,0,173);
   font-size: x-large;
   font-family: IntegralCF-Bold;
   text-align: center;
   }
-}
+
 .contact section
 {
   color: rgb(58,0,173);
@@ -563,7 +562,23 @@ color: rgb(58,0,173);
   font-family: IntegralCF-Bold;
   text-align: center;
 }
+.mymailid 
+{
 
+  color: rgb(58,0,173);
+  font-size: x-large;
+  font-family: IntegralCF-Bold;
+  text-align: center;
+}
+
+.mycontactnumber 
+{
+
+  color: rgb(58,0,173);
+  font-size: x-large;
+  font-family: IntegralCF-Bold;
+  text-align: center;
+}
 
 @media screen and (min-width: 1024px){
   .bd-grid{
