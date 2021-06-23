@@ -232,11 +232,6 @@ img{
   margin-bottom: var(--mb-5);
   color:rgb(58,0,173);
   font-family: IntegralCF-Medium;
-  
-}
-.title_desc
-{
-    color:rgb(58,0,173);
 }
 .home__title-color{
   color:rgb(58,0,173);
@@ -248,8 +243,6 @@ img{
 .home__social{
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  
   
 }
 .home__social-icon{
@@ -372,15 +365,10 @@ img{
 .work__container{
   row-gap: 2rem;
 }
-
 .work__img{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
   overflow: hidden;
-}
-.project_desc{
-    text-align: center;
-    color: rgb(58,0,173);
 }
 .work__img img{
   transition: 1s;
@@ -488,24 +476,20 @@ img{
   }
   .home__data{
     align-self: flex-end;
-    text-align: center;
   }
   .home__social{
     padding-top: 0;
-    padding-bottom: 9.5rem;
+    padding-bottom: 3.5rem;
     flex-direction: row;
-    align-self: space-between;
-    text-align: center;
+    align-self: flex-end;
   }
   .home__social-icon{
-    margin-top: 0;
-    margin-left: var(--mb-4);
-
-    
+    margin-bottom: 0;
+    margin-right: var(--mb-4);
   }
   .home__img{
-    width: 490px;
-    bottom: 35%;
+    width: 457px;
+    bottom: 15%;
 
   }
 
@@ -548,22 +532,7 @@ img{
   }
   .contact__container{
     justify-items: center;
-  
   }
-  .mycontactnumber
-  {
-font-size: larger;
-    font-family: IntegralCF-Medium;
-    color: rgb(58,0,173);
-  }
-  .mymailid
-  {
-    font-size: larger;
-    font-family: IntegralCF-Medium;
-    color: rgb(58,0,173);
-
-  }
-
 }
 
 @media screen and (min-width: 1024px){
