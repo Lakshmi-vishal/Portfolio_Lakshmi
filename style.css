@@ -301,6 +301,11 @@ img{
   border-radius: .5rem;
 }
 
+.button_about
+{
+color:white;
+}
+
 /* ===== SKILLS =====*/
 .skills__container{
   row-gap: 2rem;
