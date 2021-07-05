@@ -398,6 +398,13 @@ color:white;
   font-size: xx-large;
   font-family: IntegralCF-Bold;
 }
+
+.project_desc
+{font-family: IntegralCF-Medium;
+color: rgb(58,0,173);
+  text-align:center;
+
+}
 /* ===== CONTACT =====*/
 .contact__input{
   width: 100%;
@@ -427,11 +434,6 @@ font-family: IntegralCF-Medium;
 }
 
 
-.project_desc
-{font-family: IntegralCF-Medium;
-color: rgb(58,0,173);
-
-}
 /* ===== FOOTER =====*/
 .footer{
   background-color: var(--second-color);
