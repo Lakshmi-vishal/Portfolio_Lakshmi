@@ -305,7 +305,10 @@ img{
 {
 color:white;
 }
-
+#aboutbut
+{
+  color:white;
+}
 /* ===== SKILLS =====*/
 .skills__container{
   row-gap: 2rem;
